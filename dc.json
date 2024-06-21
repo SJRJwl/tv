@@ -16,12 +16,12 @@
 
 {"urls": [
 
-{"url": "clan://localhost/TVBox/jsm.json","name":"追风本地🌎主力"},
-{"url": "clan://localhost/TVBox/jsm1.json","name":"追风本地🪴备用"},
-{"url": "clan://localhost/TVBox/lvcha.json","name":"追风本地🏹 绿茶"}，
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/jsm.json","name":"追风在线主力"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/jsm1.json","name":"追风在线🚀备用"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/lvcha.json","name":"追风在线🍵绿茶"}
+{"url": "clan://localhost/TVBox/jsm.json","name":"追风本地🌎主力🐉"},
+{"url": "clan://localhost/TVBox/jsm1.json","name":"追风本地🪴备用🐍"},
+{"url": "clan://localhost/TVBox/lvcha.json","name":"追风本地🏹绿茶🍓"}，
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/jsm.json","name":"追风在线🇨🇳主力🎄"},
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/jsm1.json","name":"追风在线🧨备用🎱"},
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SJRJwl/tv/main/lvcha.json","name":"追风在线🌹绿茶🍀"}
 
 ]
 }
